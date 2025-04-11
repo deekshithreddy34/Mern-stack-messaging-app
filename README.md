@@ -35,11 +35,12 @@ npm start
 
 snippet shots of UI
 
-![image](https://github.com/user-attachments/assets/99df9285-1beb-4adf-a800-729a816dd5f9)
+![image](https://github.com/user-attachments/assets/6c74d213-981e-454e-b7e2-98d799500d23)
 
-![image](https://github.com/user-attachments/assets/f34ab569-8626-4474-88c1-115c2d6065ed)
+![image](https://github.com/user-attachments/assets/f5cf1e7e-3e5a-49c0-bdce-167503ce75d7)
 
-![image](https://github.com/user-attachments/assets/7dfbcfad-81f0-40a7-a08a-07cd44d73c37)
+![image](https://github.com/user-attachments/assets/12aeee48-39d0-45ac-b2d4-abf5a31eaf06)
+
 
 
 
